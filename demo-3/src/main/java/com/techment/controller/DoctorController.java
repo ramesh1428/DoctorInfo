@@ -23,7 +23,7 @@ public class DoctorController {
 	}
 	@RequestMapping("/hello")
 	public String hello() {
-		return "hello world";
+		return "hello Ramesh";
 	}
 	
 }
